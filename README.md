@@ -1,11 +1,11 @@
-# Client DizifyMusic
+# Client Santa
 
   - Client développé avec React Native
 
 ### Installation
 
 - Expo / Yarn / Node sont nécessaires.
-- À la racine du projet, faite un maven install :
+- À la racine du projet, faite un yarn install :
  ```sh
  $ yarn install
 ```
@@ -19,6 +19,4 @@
 
 ### Ce qui restait à faire
 
-- Afficher un Top Artiste / Album / Titre en fonction du nombre de Favoris sur la page d’Accueil
-- Afficher une zone de recherche dans le haut du site
-- Optimiser le code, notamment les appels aux API.
+- Les traits entre chaque points de l'itinéraire du père noël
